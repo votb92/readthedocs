@@ -29,6 +29,7 @@ How do I...
 ===========
 
 `How do I get started fast (Python)? <https://nbviewer.jupyter.org/github/isb-cgc/Community-Notebooks/blob/master/Notebooks/Quick_Start_Guide_to_ISB_CGC.ipynb>`_
+++++++++++++++++++++++++++++++++++++++
 
 
 `How do I get started fast (R)? <https://github.com/isb-cgc/Community-Notebooks/blob/master/Notebooks/Quick_Start_Guide_for_ISB-CGC.Rmd>`_
