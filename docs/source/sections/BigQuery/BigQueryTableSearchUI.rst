@@ -18,7 +18,7 @@ Currently, ISB-CGC hosts over 300 open access BigQuery tables. Each table has be
    :align: center
 
 
-Links to various helpful documentation pages are available, including Google BigQuery's documentation and ISB-CGC's Community Notebook repository which contains example use-cases on how to access BigQuery tables programmatically via Jupyter notebooks or R scripts.
+Links to various helpful documentation pages are available, including Google BigQuery's documentation and ISB-CGC's BigQuery documentation and the ISB-CGC Release Notes.
 
 
 .. image:: BigQueryTableSearch-Documentation.png
